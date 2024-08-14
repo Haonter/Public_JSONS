@@ -24,7 +24,7 @@
         "precio": 399.99,
         "stock": 50,
         "categoria": "perifericos",
-        "imagen": "hhttps://m.media-amazon.com/images/I/41CyzB0TlhL.jpg"
+        "imagen": "https://m.media-amazon.com/images/I/41CyzB0TlhL.jpg"
     },
     {
         "id": 4,
